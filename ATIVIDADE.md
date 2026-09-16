@@ -9,7 +9,7 @@ Professor: Esp. Virgílio do Rego Monteiro Borges Junior
 | Repositório base | https://github.com/virgiliojr94/iteam-2026-modulo04-atividade-final — use o botão **Use this template** |
 | Formato | individual |
 | Início | último encontro, em sala |
-| Prazo de entrega | `<DEFINIR>` |
+| Prazo de entrega | `16/09/2026` |
 | Pontuação | 100 pontos |
 | Consulta permitida | apostila, documentação oficial, seu próprio repositório `my-daily-habits`, assistente de IA **como tutor** |
 | Consulta proibida | código pronto de terceiros, repositório de colega, código gerado integralmente por IA |
